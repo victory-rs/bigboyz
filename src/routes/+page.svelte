@@ -5,7 +5,7 @@
 		<a href="BB-karta-pića_02.pdf" target="blank" class="url underline">karta pića</a>
 		<p class="text-center text-lg">Južni bulevar 42, Beograd</p>
 		<a href="https://www.instagram.com/bigboyz_bg" class="w-6 h-6"
-			><img alt="instagram" class="instagram" src="/instagram.png" /></a
+			><img alt="instagram" class="instagram" src="/instagram.png" width="24" height="24" /></a
 		>
 	</div>
 </div>
