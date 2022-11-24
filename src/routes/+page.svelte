@@ -1,0 +1,32 @@
+<div class="w-screen min-h-screen grid justify-center items-center bg-[#718b74]">
+	<div class="w-full flex flex-col gap-8 justify-center items-center">
+		<img alt="BigBoyz logo" src="/logo.png" class="logo w-full" width="1080" height="1080" />
+		<p class="text-center text-3xl text-[#e0d0a7] mt-12">Južni bulevar 42, Beograd</p>
+		<a href="https://www.instagram.com/bigboyz_bg" class="w-12 h-12"
+			><img alt="instagram" class="instagram" src="/instagram.png" /></a
+		>
+	</div>
+</div>
+
+<style>
+	.logo {
+		filter: drop-shadow(0 0 0.5rem rgba(0, 0, 0, 0.5));
+		animation: pulse 6s infinite ease-in-out;
+		--shadowdifuse: 0.5rem;
+		--shadowdifusemax: 2rem;
+	}
+	@keyframes pulse {
+		0% {
+			transform: scale(1);
+			filter: drop-shadow(0 0 var(--shadowdifuse) rgba(0, 0, 0, 0.5));
+		}
+		50% {
+			transform: scale(1.1);
+			filter: drop-shadow(1rem 0.5rem var(--shadowdifusemax) rgba(0, 0, 0, 1.5));
+		}
+		100% {
+			transform: scale(1);
+			filter: drop-shadow(0 0 var(--shadowdifuse) rgba(0, 0, 0, 0.5));
+		}
+	}
+</style>
