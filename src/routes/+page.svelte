@@ -3,7 +3,7 @@
 		<img alt="BigBoyz logo" src="/logo.png" class="logo w-full" width="1080" height="1080" />
 		<a href="BB-jelovnik_01.pdf" target="blank" class="url underline">jelovnik</a>
 		<a href="BB-karta-pića_02.pdf" target="blank" class="url underline">karta pića</a>
-		<p class="text-center text-lg  mt-12">Južni bulevar 42, Beograd</p>
+		<p class="text-center text-lg">Južni bulevar 42, Beograd</p>
 		<a href="https://www.instagram.com/bigboyz_bg" class="w-6 h-6"
 			><img alt="instagram" class="instagram" src="/instagram.png" /></a
 		>
