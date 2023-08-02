@@ -2,7 +2,7 @@
 	<div class="w-full flex flex-col gap-8 justify-center items-center">
 		<img alt="BigBoyz logo" src="/logo.png" class="logo w-full" width="1080" height="1080" />
 		<a href="BB Jelovnik sajt_jul_2023.pdf" target="blank" class="url underline">jelovnik</a>
-		<a href="BB Karta pica sajt_jul_2023.pdf" target="blank" class="url underline">karta pića</a>
+		<a href="BigBoyz karta pića.pdf" target="blank" class="url underline">karta pića</a>
 		<p class="text-center text-lg">Južni bulevar 42, Beograd</p>
 		<a href="https://www.instagram.com/bigboyz_bg" class="w-6 h-6"
 			><img alt="instagram" class="instagram" src="/instagram.png" width="24" height="24" /></a
